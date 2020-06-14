@@ -1,0 +1,44 @@
+
+.sub li a {
+	padding: 20px;
+	background:#0F0;
+	text-decoration: none;
+	color: white;
+
+}
+.sub{
+	padding: 10px;
+	padding-left: 150px;
+	
+	
+
+}
+.sub li{
+	float: left;
+}
+body{
+	background:url(foto/listrik-pintar.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.sub li a:hover{
+ background:#060;
+}
+.aaa{
+	padding: 30px;
+	background: #03F;
+	opacity: 20px;
+	margin-top: 180px;
+}
+.papa{
+	border:none;
+	padding: 5px;
+}
+.laa{
+	border: none;
+	background: #09F;
+}
+.arah{
+	padding: 5px;
+	background: #9F0;
+}
